@@ -1,0 +1,38 @@
+{
+  "grey": {
+    "headerBgColor": "#B7B7B7",
+    "headerTextColor": "#000",
+    "bodyBgColor": "#F5F5F7",
+    "bodyTextColor": "#000"
+  },
+  "pink": {
+    "headerBgColor": "#E78F81",
+    "headerTextColor": "#000",
+    "bodyBgColor": "#FFCFB3",
+    "bodyTextColor": "#000"
+  },
+  "blue": {
+    "headerBgColor": "#0D92F4",
+    "headerTextColor": "#000",
+    "bodyBgColor": "#77CDFF",
+    "bodyTextColor": "#000"
+  },
+  "green": {
+    "headerBgColor": "#72BF78",
+    "headerTextColor": "#fff",
+    "bodyBgColor": "#B6FFA1",
+    "bodyTextColor": "#000"
+  },
+  "black": {
+    "headerBgColor": "#0B192C",
+    "headerTextColor": "#fff",
+    "bodyBgColor": "#243642",
+    "bodyTextColor": "#fff"
+  },
+  "lemon": {
+    "headerBgColor": "#626F47",
+    "headerTextColor": "#fff",
+    "bodyBgColor": "#798645",
+    "bodyTextColor": "#fff"
+  }
+}
